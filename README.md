@@ -1,7 +1,7 @@
 # Dev Stack Builder
 Dev Stack is a modern and responsive web application that helps developers explore different technologies and build their ideal development stack. Users can browse technologies, view their details, and add or remove technologies from their personal stack.
-
-Technologies Used
+### LocalHost :  http://localhost:5173/
+### Technologies Used
 
 - React.js
 - JavaScript (ES6+)
@@ -12,7 +12,7 @@ Technologies Used
 ## Features
 - Sticky responsive navbar with desktop and mobile layouts
 - Hero/banner section with shared orange → pink → violet gradient
-- 12 technology cards loaded from `public/technologies.json`
+- 12 technology cards loaded from public/technologies.json
 - Responsive 3-column / 2-column / 1-column technology grid
 - Your Stack sidebar with add, remove, duplicate warning and Remove All
 - Loading spinner while the JSON file is fetched

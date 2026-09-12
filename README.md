@@ -1,7 +1,14 @@
 # Dev Stack Builder
+Dev Stack is a modern and responsive web application that helps developers explore different technologies and build their ideal development stack. Users can browse technologies, view their details, and add or remove technologies from their personal stack.
 
-A React + Vite implementation of the A-5 Dev Stack Builder assignment.
+Technologies Used
 
+- React.js
+- JavaScript (ES6+)
+- Vite
+- CSS
+- React-Toastify
+- JSON
 ## Features
 - Sticky responsive navbar with desktop and mobile layouts
 - Hero/banner section with shared orange → pink → violet gradient
